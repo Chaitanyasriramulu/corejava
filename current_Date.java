@@ -3,7 +3,7 @@ package assignment;
 import java.util.Date;
 
 public class current_Date {
-	int n=100;
+	
 	static void convert12(String str)
 	{
 	    int h1 = (int)str.charAt(0) - '0';

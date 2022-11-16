@@ -3,10 +3,10 @@ package assignment;
 public class Triangle {
 
 	public static void main(String[] args) {
-		int row=6;
-		for(int i=0;i<row;i++) 
+		
+		for(int i=0;i<5;i++) 
 		{
-			for(int j=0;j<i;j++) 
+			for(int j=i;j<5;j++) 
 			{
 				System.out.print(" * ");
 			}
